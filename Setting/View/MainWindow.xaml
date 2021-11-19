@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Setting" d:DataContext="{d:DesignInstance Type=local:ViewModel}"
         mc:Ignorable="d"
-        Title="SAPIForVOICEVOX 設定 " Height="370" Width="350" MinHeight="370" MinWidth="350" WindowStartupLocation="CenterScreen" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Icon="/Setting;component/icon/settings.ico" SourceInitialized="Window_SourceInitialized">
+        Title="SAPIForCOEIROINK 設定 " Height="370" Width="350" MinHeight="370" MinWidth="350" WindowStartupLocation="CenterScreen" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Icon="/Setting;component/icon/settings.ico" SourceInitialized="Window_SourceInitialized">
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BoolVisibilityConverter"/>
         <local:SynthesisSettingModeToBool x:Key="SettinModeConverter"/>
@@ -29,7 +29,7 @@
                         <GroupBox DockPanel.Dock="Top" Header="調声">
                             <StackPanel>
                                 <RadioButton x:Name="allRadioButton" Margin="3" Content="一括で設定する" IsChecked="{Binding SynthesisSettingMode, ConverterParameter=Batch, Converter={StaticResource SettinModeConverter}}"/>
-                                <RadioButton x:Name="parCharacterRadioButton" Margin="3" Content="キャラクター毎に設定する"  IsChecked="{Binding SynthesisSettingMode, ConverterParameter=EachCharacter, Converter={StaticResource SettinModeConverter}}"/>
+                                <RadioButton IsEnabled="False" x:Name="parCharacterRadioButton" Margin="3" Content="キャラクター毎に設定する"  IsChecked="{Binding SynthesisSettingMode, ConverterParameter=EachCharacter, Converter={StaticResource SettinModeConverter}}"/>
                             </StackPanel>
                         </GroupBox>
                         <GroupBox DockPanel.Dock="Top" Header="高度な設定">

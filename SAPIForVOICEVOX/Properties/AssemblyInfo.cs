@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("SAPIForVOICEVOX")]
-[assembly: AssemblyDescription("VOICEVOXをSAPIから見えるようにするアドイン的な何か")]
+[assembly: AssemblyTitle("SAPIForCOEIROINK")]
+[assembly: AssemblyDescription("COEIROINKをSAPIから見えるようにするアドイン的な何か")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SAPIForVOICEVOX")]
+[assembly: AssemblyProduct("SAPIForCOEIROINK")]
 [assembly: AssemblyCopyright("Copyright © shigobu  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     /// <summary>
     /// VOICEVOXのエンジンに関するエラーを表します。

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     /// <summary>
     /// 例外を音声で通知する、例外クラス。

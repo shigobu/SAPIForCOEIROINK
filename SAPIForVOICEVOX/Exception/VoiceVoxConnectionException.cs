@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     /// <summary>
     /// ボイスボックスと通信ができない場合に投げられます。

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     /// <summary>
     /// 英単語を含む文字列を英単語の読みと対応するカナに変換する関数を提供します。

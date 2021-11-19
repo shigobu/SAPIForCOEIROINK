@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_091565830F8746C980C8B174771E65B0"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_05AA01838F7CDFC88D73B0319679EF39"
+        "OwnerKey" = "8:_2E14CA9B05304758A67F17A7A0B2900B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1047A1E0933DB945F30D442E5BBB68BB"
-        "OwnerKey" = "8:_2E14CA9B05304758A67F17A7A0B2900B"
+        "MsmKey" = "8:_091565830F8746C980C8B174771E65B0"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -51,14 +51,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6B7F40FCE3DF8F240B02542A8D137A12"
+        "MsmKey" = "8:_686F7CA1ED3558022F63B01EC85EF822"
         "OwnerKey" = "8:_2E14CA9B05304758A67F17A7A0B2900B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6B7F40FCE3DF8F240B02542A8D137A12"
-        "OwnerKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -76,12 +70,6 @@
         "Entry"
         {
         "MsmKey" = "8:_92F4CAADF72DC37EB251214AAC5817DF"
-        "OwnerKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_92F4CAADF72DC37EB251214AAC5817DF"
         "OwnerKey" = "8:_ABEF4ADC41C64D988831EE35FB55C9F6"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -93,26 +81,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A11C5257BD2301EA2691496E0021390B"
+        "MsmKey" = "8:_994913C4F05AEDBB46B37A0FE6E6752D"
         "OwnerKey" = "8:_17F814DDAA3A458CB26CAA6D9ABCB11A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A11C5257BD2301EA2691496E0021390B"
-        "OwnerKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A11C5257BD2301EA2691496E0021390B"
+        "MsmKey" = "8:_994913C4F05AEDBB46B37A0FE6E6752D"
         "OwnerKey" = "8:_2E14CA9B05304758A67F17A7A0B2900B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A11C5257BD2301EA2691496E0021390B"
-        "OwnerKey" = "8:_1047A1E0933DB945F30D442E5BBB68BB"
+        "MsmKey" = "8:_994913C4F05AEDBB46B37A0FE6E6752D"
+        "OwnerKey" = "8:_05AA01838F7CDFC88D73B0319679EF39"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -123,32 +105,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C7B8A4856A315D5B10247A4A8CF3CA85"
-        "OwnerKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_2E14CA9B05304758A67F17A7A0B2900B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C7B8A4856A315D5B10247A4A8CF3CA85"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -160,13 +118,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_1047A1E0933DB945F30D442E5BBB68BB"
+        "OwnerKey" = "8:_05AA01838F7CDFC88D73B0319679EF39"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6B7F40FCE3DF8F240B02542A8D137A12"
+        "OwnerKey" = "8:_686F7CA1ED3558022F63B01EC85EF822"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -178,7 +136,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A11C5257BD2301EA2691496E0021390B"
+        "OwnerKey" = "8:_994913C4F05AEDBB46B37A0FE6E6752D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -338,34 +296,14 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_091565830F8746C980C8B174771E65B0"
-            {
-            "SourcePath" = "8:..\\SAPIForVOICEVOX\\EnglishToKana\\Licence.txt"
-            "TargetName" = "8:EnglishKanaDictionaryLicence.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_43BBF41332F244F2AFA1A745571AA04B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1047A1E0933DB945F30D442E5BBB68BB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_05AA01838F7CDFC88D73B0319679EF39"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Setting, Version=1.2.0.0, Culture=neutral, processorArchitecture=AMD64"
+            "AssemblyAsmDisplayName" = "8:Setting, Version=1.2.1.0, Culture=neutral, processorArchitecture=AMD64"
                 "ScatterAssemblies"
                 {
-                    "_1047A1E0933DB945F30D442E5BBB68BB"
+                    "_05AA01838F7CDFC88D73B0319679EF39"
                     {
                     "Name" = "8:Setting.exe"
                     "Attributes" = "3:512"
@@ -387,6 +325,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_091565830F8746C980C8B174771E65B0"
+            {
+            "SourcePath" = "8:..\\SAPIForVOICEVOX\\EnglishToKana\\Licence.txt"
+            "TargetName" = "8:EnglishKanaDictionaryLicence.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_43BBF41332F244F2AFA1A745571AA04B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2FD8E099C1CC4644AB69F775E6DF62DA"
@@ -429,14 +387,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6B7F40FCE3DF8F240B02542A8D137A12"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_686F7CA1ED3558022F63B01EC85EF822"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6B7F40FCE3DF8F240B02542A8D137A12"
+                    "_686F7CA1ED3558022F63B01EC85EF822"
                     {
                     "Name" = "8:Newtonsoft.Json.dll"
                     "Attributes" = "3:512"
@@ -511,51 +469,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A11C5257BD2301EA2691496E0021390B"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_994913C4F05AEDBB46B37A0FE6E6752D"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:SFVvCommon, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:SFVvCommon, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_A11C5257BD2301EA2691496E0021390B"
+                    "_994913C4F05AEDBB46B37A0FE6E6752D"
                     {
                     "Name" = "8:SFVvCommon.dll"
                     "Attributes" = "3:512"
                     }
                 }
             "SourcePath" = "8:SFVvCommon.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_A6CA9C92E14E4547A73C126C541C262F"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C7B8A4856A315D5B10247A4A8CF3CA85"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack, Version=1.1.4.0, Culture=neutral, PublicKeyToken=8985beaab7ea3f04, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_C7B8A4856A315D5B10247A4A8CF3CA85"
-                    {
-                    "Name" = "8:Microsoft.WindowsAPICodePack.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.WindowsAPICodePack.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_A6CA9C92E14E4547A73C126C541C262F"
@@ -590,7 +517,7 @@
                 {
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_8A8398EBCC344D2A9AB0F91E557D3950"
                     {
-                    "Name" = "8:SAPI For VOICEVOX 32bit"
+                    "Name" = "8:SAPI For COEIROINK 32bit"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
@@ -650,10 +577,10 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:SAPIForVOICEVOX32"
-        "ProductCode" = "8:{812EE36E-DD54-42CC-AB03-1FDF34784EED}"
+        "ProductName" = "8:SAPIForCOEIROINK32"
+        "ProductCode" = "8:{5C37024D-04FC-4E58-BF7C-BB27DA0CF9C2}"
         "PackageCode" = "8:{B5213D87-2D0C-4D32-BD41-8F57D88F823A}"
-        "UpgradeCode" = "8:{8EEDF03C-0AFA-4727-87B5-8DF30280E85C}"
+        "UpgradeCode" = "8:{B17C9461-3503-4968-9CB8-2B4DABBE18D6}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
@@ -716,23 +643,9 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_0050DA01895B4864B2E67C1BA2182EE9"
-            {
-            "Name" = "8:スタイル登録ツール"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:32512"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-            "Folder" = "8:_8A8398EBCC344D2A9AB0F91E557D3950"
-            "WorkingFolder" = "8:_A6CA9C92E14E4547A73C126C541C262F"
-            "Icon" = "8:_C32AF89E34B244079C1EE119323D0CCD"
-            "Feature" = "8:"
-            }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_C8987047AD474C7E897547AE5C998082"
             {
-            "Name" = "8:SAPIForVOICEVOX設定32bit版"
+            "Name" = "8:SAPIForCOEIROINK設定32bit版"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -1201,7 +1114,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2E14CA9B05304758A67F17A7A0B2900B"
             {
-            "SourcePath" = "8:..\\SAPIForVOICEVOX\\obj\\x86\\Release\\SAPIForVOICEVOX.dll"
+            "SourcePath" = "8:..\\SAPIForVOICEVOX\\obj\\x86\\Release\\SAPIForCOEIROINK.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_A6CA9C92E14E4547A73C126C541C262F"
@@ -1250,34 +1163,6 @@
             "OutputConfiguration" = "8:Release|Any CPU"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{1D19776F-BC51-4CA9-BACD-130ED51DE554}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C32AF89E34B244079C1EE119323D0CCD"
-            {
-            "SourcePath" = "8:..\\StyleRegistrationTool\\obj\\x86\\Release\\StyleRegistrationTool.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_A6CA9C92E14E4547A73C126C541C262F"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:Release|x86"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{9FB0F305-CE4F-4D33-B968-6F861ECDBA8F}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {

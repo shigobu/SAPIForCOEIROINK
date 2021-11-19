@@ -14,7 +14,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TTSEngineLib;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     [Guid(Common.guidString)]
     [ComVisible(true)]
@@ -435,8 +435,7 @@ namespace SAPIForVOICEVOX
 #region レジストリ関連
 
         const string regKey = @"SOFTWARE\Microsoft\Speech\Voices\Tokens\";
-        const string regName1 = "VOICEVOX1";
-        const string regName2 = "VOICEVOX2";
+        const string regName1 = "COEIROINK1";
         const string regAttributes = "Attributes";
         const string regSpeakerNumber = "SpeakerNumber";
 
@@ -447,11 +446,11 @@ namespace SAPIForVOICEVOX
         [ComRegisterFunction()]
         public static void RegisterClass(string key)
         {
-            //四国めたん
+            //つくよみちゃん
             using (RegistryKey registryKey = Registry.LocalMachine.CreateSubKey(regKey + regName1))
             {
-                registryKey.SetValue("", "VOICEVOX 四国めたん");
-                registryKey.SetValue("411", "VOICEVOX 四国めたん");
+                registryKey.SetValue("", "COEIROINK つくよみちゃん");
+                registryKey.SetValue("411", "COEIROINK つくよみちゃん");
                 registryKey.SetValue("CLSID", Common.CLSID.ToString(Common.RegClsidFormatString));
                 registryKey.SetValue(regSpeakerNumber, 0);
             }
@@ -461,24 +460,7 @@ namespace SAPIForVOICEVOX
                 registryKey.SetValue("Vendor", "Hiroshiba Kazuyuki");
                 registryKey.SetValue("Language", "411");
                 registryKey.SetValue("Gender", "Female");
-                registryKey.SetValue("Name", "VOICEVOX Shikoku Metan");
-            }
-
-            //ずんだもん
-            using (RegistryKey registryKey = Registry.LocalMachine.CreateSubKey(regKey + regName2))
-            {
-                registryKey.SetValue("", "VOICEVOX ずんだもん");
-                registryKey.SetValue("411", "VOICEVOX ずんだもん");
-                registryKey.SetValue("CLSID", Common.CLSID.ToString(Common.RegClsidFormatString));
-                registryKey.SetValue(regSpeakerNumber, 1);
-            }
-            using (RegistryKey registryKey = Registry.LocalMachine.CreateSubKey(regKey + regName2 + @"\" + regAttributes))
-            {
-                registryKey.SetValue("Age", "Child");
-                registryKey.SetValue("Vendor", "Hiroshiba Kazuyuki");
-                registryKey.SetValue("Language", "411");
-                registryKey.SetValue("Gender", "Female");
-                registryKey.SetValue("Name", "VOICEVOX Zundamon");
+                registryKey.SetValue("Name", "COEIROINK つくよみちゃん");
             }
         }
 
@@ -529,7 +511,7 @@ namespace SAPIForVOICEVOX
             try
             {
                 //audio_queryを送る
-                using (var resultAudioQuery = await httpClient.PostAsync(@"http://127.0.0.1:50021/audio_query?" + encodedParamaters, null))
+                using (var resultAudioQuery = await httpClient.PostAsync(@"http://127.0.0.1:50031/audio_query?" + encodedParamaters, null))
                 {
                     //戻り値を文字列にする
                     string resBodyStr = await resultAudioQuery.Content.ReadAsStringAsync();
@@ -546,7 +528,7 @@ namespace SAPIForVOICEVOX
                     //jsonコンテンツに変換
                     var content = new StringContent(jsonString, Encoding.UTF8, @"application/json");
                     //synthesis送信
-                    using (var resultSynthesis = await httpClient.PostAsync(@"http://127.0.0.1:50021/synthesis?speaker=" + speakerString, content))
+                    using (var resultSynthesis = await httpClient.PostAsync(@"http://127.0.0.1:50031/synthesis?speaker=" + speakerString, content))
                     {
                         HttpContent httpContent = resultSynthesis.Content;
                         //音声データで無い場合

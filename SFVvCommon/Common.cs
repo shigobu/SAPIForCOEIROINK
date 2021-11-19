@@ -12,8 +12,7 @@ namespace SFVvCommon
     public class Common
     {
         #region guid
-
-        public const string guidString = "7A1BB9C4-DF39-4E01-A8DC-20DC1A0C03C6";
+        public const string guidString = "0C9A7CA1-E50F-433E-9546-CED09AD95665";
         /// <summary>
         /// TTSエンジンのcomで使用されるCLSID
         /// </summary>

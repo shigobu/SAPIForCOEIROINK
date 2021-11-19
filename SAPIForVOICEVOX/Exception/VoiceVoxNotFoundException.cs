@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SAPIForVOICEVOX
+namespace SAPIForCOEIROINK
 {
     /// <summary>
     /// ボイスボックスが起動中プロセス一覧から見つからなかった場合に投げられます。

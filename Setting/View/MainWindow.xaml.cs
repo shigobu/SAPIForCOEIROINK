@@ -79,7 +79,7 @@ namespace Setting
 
             ApplyButton.IsEnabled = false;
 
-            AddTabControl();
+            //AddTabControl();
         }
 
         const string tokensRegKey = @"SOFTWARE\Microsoft\Speech\Voices\Tokens\";
