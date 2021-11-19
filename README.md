@@ -1,11 +1,12 @@
 # SAPI For COEIROINK
 
 [SAPI For VOICEVOX](https://github.com/shigobu/SAPIForVOICEVOX)
-をそのまま複製しただけ。
+をそのまま複製しただけ。  
+将来的に、SAPI For VOICEVOXへ統合させたいと思っています。
 
-以下編集中
+___
 
-Windows標準の音声合成機能の音声としてVOICEVOXが追加ができます。  
+Windows標準の音声合成機能の音声としてCOEIROINKが追加ができます。  
 ![コンパネ音声合成](https://user-images.githubusercontent.com/32050537/131860902-7aedbd45-453a-4425-a33c-7cb4a2f2dcf1.png)  
 SAPI5対応のアプリケーションから使用することができます。  
 現在、古い方の音声合成機能に対応しています。コントロールパネル→音声認識→音声合成 で表示される音声認識のプロパティ画面の音声の選択ドロップダウンに追加されます。  
@@ -20,11 +21,11 @@ GitHubのReleaseからダウンロードができます。
 setup.exeを起動し、インストールしてください。  
 32bit版と64bit版が存在します。使用したいアプリケーションに応じて選択してください。  
 両方インストールすることもできます。その場合、同じ場所にインストールしないでください。  
-インストール場所の初期値は「c:\SAPIForVOICEVOX(32or64)」になっています。  
+インストール場所の初期値は「c:\SAPIForCOEIROINK(32or64)」になっています。  
 「C:\Program Files (x86)」へインストールしないでください。何故か正常にインストールできません。  
 
-VOICEVOX本体が必要です。[VOICEVOX公式ホームページ](https://voicevox.hiroshiba.jp/)  
-VOICEVOXエンジンの自動起動機能は実装していないので、あらかじめVOICEVOXを起動しておいてください。  
+COEIROINK本体が必要です。[COEIROINK公式ホームページ](https://coeiroink.com/)  
+COEIROINKエンジンの自動起動機能は実装していないので、あらかじめCOEIROINKを起動しておいてください。  
 
 Windows Defender にウイルスとして検知されてしまうと報告をうけています。  
 当ソフトには、ウイルスは含まれていませんので、誤検知です。  
@@ -58,9 +59,9 @@ The CMU Pronouncing Dictionary(http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 ## ライセンス
 このアプリのライセンスは、「MIT License」です。
 
-また、VOICEVOX本体及び各音声ライブラリの利用規約にも従ってください。  
-[VOICEVOX公式ホームページ](https://voicevox.hiroshiba.jp/)　(ダウンロード→利用規約から確認できます)  
-[ずんだもん、四国めたん音源利用規約](https://zunko.jp/con_ongen_kiyaku.html)
+また、COEIROINK本体及び各音声ライブラリの利用規約にも従ってください。  
+[COEIROINK利用規約](https://coeiroink.com/terms)  
+[つくよみちゃん音声](https://coeiroink.com/audio-character/tsukuyomi-chan)
 
 ## 開発環境
 Microsoft Visual Studio Community 2019  
@@ -77,7 +78,7 @@ C#・C++
 Visual Studioの「ツール」→「拡張機能」からインストールしてください。  
 
 ## フォルダ構成
-SAPIForVOICEVOX：本体  
+SAPIForCOEIROINK：本体  
 SAPIGetStaticValueLib：必要な定数を取得するc++のライブラリ  
 SFVvCommon：C#で使用する共通ライブラリ  
 Setting：設定アプリ  
