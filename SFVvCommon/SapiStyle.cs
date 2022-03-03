@@ -36,7 +36,7 @@ namespace SFVvCommon
         {
             get
             {
-                return "VOICEVOX " + Name + " " + StyleName;
+                return "COEIROINK " + Name + " " + StyleName;
             }
         }
 
