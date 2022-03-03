@@ -372,7 +372,7 @@ namespace SAPIForCOEIROINK
         }
 
         const ushort channels = 1;
-        const uint samplesPerSec = 24000;
+        const uint samplesPerSec = 44100;
         const ushort bitsPerSample = 16;
 
         /// <summary>

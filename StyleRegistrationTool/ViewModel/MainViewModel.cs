@@ -410,7 +410,7 @@ namespace StyleRegistrationTool.ViewModel
         async Task<VoicevoxStyle[]> GetVoicevoxStyles()
         {
             List<VoicevoxStyle> voicevoxStyles = new List<VoicevoxStyle>();
-            using (var resultSpeakers = await httpClient.GetAsync(@"http://127.0.0.1:50021/speakers"))
+            using (var resultSpeakers = await httpClient.GetAsync(@"http://127.0.0.1:50031/speakers"))
             {
                 //戻り値を文字列にする
                 string resBodyStr = await resultSpeakers.Content.ReadAsStringAsync();
@@ -464,7 +464,7 @@ namespace StyleRegistrationTool.ViewModel
             {
                 for (int i = 0; i < SapiStyles.Count(); i++)
                 {
-                    using (RegistryKey voiceVoxRegkey = regTokensKey.CreateSubKey("VOICEVOX" + i.ToString()))
+                    using (RegistryKey voiceVoxRegkey = regTokensKey.CreateSubKey("COEIROINC" + i.ToString()))
                     {
                         voiceVoxRegkey.SetValue("", SapiStyles[i].SpaiName);
                         voiceVoxRegkey.SetValue("411", SapiStyles[i].SpaiName);
