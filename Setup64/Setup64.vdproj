@@ -22,13 +22,13 @@
         "Entry"
         {
         "MsmKey" = "8:_08C9E993516B076B96A9E9D0A1D89537"
-        "OwnerKey" = "8:_3689B44B2C874C22A99B4079678C8B58"
+        "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_08C9E993516B076B96A9E9D0A1D89537"
-        "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
+        "OwnerKey" = "8:_3689B44B2C874C22A99B4079678C8B58"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -52,12 +52,6 @@
         "Entry"
         {
         "MsmKey" = "8:_370767AC971CC477F99DC15CBBF62C09"
-        "OwnerKey" = "8:_669C1ACD106A72D372FCFA7A51780250"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_370767AC971CC477F99DC15CBBF62C09"
         "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -71,6 +65,12 @@
         {
         "MsmKey" = "8:_370767AC971CC477F99DC15CBBF62C09"
         "OwnerKey" = "8:_3689B44B2C874C22A99B4079678C8B58"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_370767AC971CC477F99DC15CBBF62C09"
+        "OwnerKey" = "8:_669C1ACD106A72D372FCFA7A51780250"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -100,12 +100,6 @@
         "Entry"
         {
         "MsmKey" = "8:_E405507FA80A33EDD61793682A4AEB75"
-        "OwnerKey" = "8:_3689B44B2C874C22A99B4079678C8B58"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E405507FA80A33EDD61793682A4AEB75"
         "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -119,6 +113,12 @@
         {
         "MsmKey" = "8:_E405507FA80A33EDD61793682A4AEB75"
         "OwnerKey" = "8:_A909083F989E4A14A366788EC2F774BF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E405507FA80A33EDD61793682A4AEB75"
+        "OwnerKey" = "8:_3689B44B2C874C22A99B4079678C8B58"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -142,18 +142,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_05229792DCCFACDE7D433665E2DED7AC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_ED863E916E664F7E84254EF95ADF42AB"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -172,6 +160,12 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0D2A73088BBE46B2BAE7A4B867F9A206"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_370767AC971CC477F99DC15CBBF62C09"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -179,6 +173,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_08C9E993516B076B96A9E9D0A1D89537"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_05229792DCCFACDE7D433665E2DED7AC"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -655,15 +655,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:SAPIForCOEIROINK64"
-        "ProductCode" = "8:{AB6F9532-BDB0-4FB3-871C-38BA05A8444D}"
-        "PackageCode" = "8:{01C50B12-6BD7-42B4-B416-CC7E0E8F84CC}"
+        "ProductCode" = "8:{1148EA3F-86CB-4219-9B8A-8401EAB71318}"
+        "PackageCode" = "8:{279C05D4-B004-45A8-BEEE-C2986EFE2369}"
         "UpgradeCode" = "8:{DF522ECE-74C5-48FC-AE5F-ED583A619B04}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.2.1"
+        "ProductVersion" = "8:1.2.2"
         "Manufacturer" = "8:Shigobu"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
