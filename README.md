@@ -1,9 +1,7 @@
 # SAPI For COEIROINK
 
 [SAPI For VOICEVOX](https://github.com/shigobu/SAPIForVOICEVOX)
-をそのまま複製しただけ。  
-将来的に、SAPI For VOICEVOXへ統合させたいと思っています。
-
+に統合しました。
 ___
 
 Windows標準の音声合成機能の音声としてCOEIROINKが追加ができます。  
